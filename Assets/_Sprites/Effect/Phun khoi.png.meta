@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 97132ffddc5d5ec41967a9e2b113a49e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Phun khoi_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6293
+        width: 253
+        height: 181
+      alignment: 9
+      pivot: {x: 0.15013877, y: 0.5600586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9eac9a414640d4280c48689680bd4c
+      internalID: 535163409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5921
+        width: 464
+        height: 366
+      alignment: 9
+      pivot: {x: 0.12396079, y: 0.43308145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04596a87852753f47bc2ed931fb02dfb
+      internalID: -1106429134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5544
+        width: 450
+        height: 358
+      alignment: 9
+      pivot: {x: 0.119458914, y: 0.49103773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10902269b73ab4aaefacd5391359fc
+      internalID: -1349869170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5040
+        width: 504
+        height: 424
+      alignment: 9
+      pivot: {x: 0.13713567, y: 0.465947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ab01421aff9a6488736b8a1211d051
+      internalID: -1107152167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4497
+        width: 510
+        height: 495
+      alignment: 9
+      pivot: {x: 0.12386123, y: 0.44801334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff8929a3a743634f87771ff12bb3ae4
+      internalID: -504906217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3971
+        width: 509
+        height: 503
+      alignment: 9
+      pivot: {x: 0.11149049, y: 0.4775352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b6a576d007ced4d9173bbd2e070507
+      internalID: -1879661945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3465
+        width: 512
+        height: 461
+      alignment: 9
+      pivot: {x: 0.056309003, y: 0.46936008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7994d252ad532f4d92cf1d9cdc0f562
+      internalID: 2052350261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2851
+        width: 522
+        height: 600
+      alignment: 9
+      pivot: {x: 0.12095032, y: 0.42039916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a28a31bebc3247b18eadb546da87b
+      internalID: -1106154359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2271
+        width: 534
+        height: 529
+      alignment: 9
+      pivot: {x: 0.11669098, y: 0.42906168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70260a718a753847bd2b9157311c3a6
+      internalID: -1127369494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 534
+        height: 580
+      alignment: 9
+      pivot: {x: 0.12307945, y: 0.47647136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35033ed86ea72d4e9fb5d421d234b31
+      internalID: 1546235286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 534
+        height: 570
+      alignment: 9
+      pivot: {x: 0.15502185, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ee7b36d9551d44ae1e4bdd086ab2f
+      internalID: 1171319092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 534
+        height: 485
+      alignment: 9
+      pivot: {x: 0.17418727, y: 0.6125417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e092a663ea6f44cbc81081a4892d7f
+      internalID: 983806438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phun khoi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 534
+        height: 456
+      alignment: 9
+      pivot: {x: 0.21251814, y: 0.51496166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfabcfdc904ef240b42ea691e767ea7
+      internalID: 1799969381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Phun khoi_12: 1799969381
+      Phun khoi_6: 2052350261
+      Phun khoi_4: -504906217
+      Phun khoi_7: -1106154359
+      Phun khoi_8: -1127369494
+      Phun khoi_3: -1107152167
+      Phun khoi_11: 983806438
+      Phun khoi_10: 1171319092
+      Phun khoi_5: -1879661945
+      Phun khoi_9: 1546235286
+      Phun khoi_0: 535163409
+      Phun khoi_1: -1106429134
+      Phun khoi_2: -1349869170
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

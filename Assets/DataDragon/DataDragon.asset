@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73ce2edf72972d64d9a557b589afd097, type: 3}
+  m_Name: DataDragon
+  m_EditorClassIdentifier: 
+  dragons:
+  - id: 0
+    dragon: {fileID: 0}
+    sprite: {fileID: 0}
+    idFrame: 0
+    effectSpawnName: 
+    soundSpawnName: 
+    idleAnimName: 
+  - id: 1
+    dragon: {fileID: 2717787479960995222, guid: 41e82f0ef66461049a313f9e096cd5d0, type: 3}
+    sprite: {fileID: -617147734, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 0
+    effectSpawnName: StaticEffect
+    soundSpawnName: Merge
+    idleAnimName: Idle
+  - id: 2
+    dragon: {fileID: 2168012800359441101, guid: b972c6bfd6e7de14bac062900b70ea7a, type: 3}
+    sprite: {fileID: -655224717, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 0
+    effectSpawnName: Effect
+    soundSpawnName: Merge
+    idleAnimName: D5_Idle
+  - id: 3
+    dragon: {fileID: 4529880251784028076, guid: 70718c0e7bc53a9468472e6bb5732dac, type: 3}
+    sprite: {fileID: 435082885, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 0
+    effectSpawnName: Effect
+    soundSpawnName: Merge
+    idleAnimName: D5_Idle
+  - id: 4
+    dragon: {fileID: 9074702134530500362, guid: 3245e8719ec96614a8797ab173ce47ea, type: 3}
+    sprite: {fileID: -763855314, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 0
+    effectSpawnName: Effect
+    soundSpawnName: Merge
+    idleAnimName: D5_Idle
+  - id: 5
+    dragon: {fileID: 1870192169519492351, guid: 055f93acc41b1e948be8228173c54a32, type: 3}
+    sprite: {fileID: 827479136, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 0
+    effectSpawnName: Effect
+    soundSpawnName: Merge
+    idleAnimName: D5_Idle
+  - id: 6
+    dragon: {fileID: 416853319929644179, guid: 5f5505b1595be914f852e5d6e4537dd2, type: 3}
+    sprite: {fileID: -509491173, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 0
+    effectSpawnName: Blink
+    soundSpawnName: Blink
+    idleAnimName: 
+  - id: 7
+    dragon: {fileID: 3904555303186838953, guid: 5464fc5fd68840c4e92253981ace013e, type: 3}
+    sprite: {fileID: -343261173, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 1
+    effectSpawnName: Blink
+    soundSpawnName: Blink
+    idleAnimName: 
+  - id: 8
+    dragon: {fileID: 5982387314442722426, guid: 76f22904d07246d479e380c01fe708d4, type: 3}
+    sprite: {fileID: 936436937, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 1
+    effectSpawnName: Blink
+    soundSpawnName: EggCrack
+    idleAnimName: 
+  - id: 9
+    dragon: {fileID: 4354819290906106156, guid: 9cf0529bc8ec91f4b93da5f046468f89, type: 3}
+    sprite: {fileID: 1100163960, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 1
+    effectSpawnName: Blink
+    soundSpawnName: EggCrack
+    idleAnimName: 
+  - id: 10
+    dragon: {fileID: 5762719976870704641, guid: f4fb26cb24e5cc54ba9855b02803550d, type: 3}
+    sprite: {fileID: 735701672, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 1
+    effectSpawnName: Effect
+    soundSpawnName: DragonSmall
+    idleAnimName: 
+  - id: 11
+    dragon: {fileID: 3801684650540177209, guid: f92b638a08264d8479a6b800808f2da6, type: 3}
+    sprite: {fileID: -1633413806, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 2
+    effectSpawnName: Effect
+    soundSpawnName: DragonSmall
+    idleAnimName: 
+  - id: 12
+    dragon: {fileID: 3041390665904991974, guid: bd55115913f390c4183601060ab8cf26, type: 3}
+    sprite: {fileID: -422290075, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 3
+    effectSpawnName: Effect
+    soundSpawnName: DragonSmall
+    idleAnimName: 
+  - id: 13
+    dragon: {fileID: 4666705830444986318, guid: 52d382b702590014bb95fc567271ebed, type: 3}
+    sprite: {fileID: 1308994815, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 4
+    effectSpawnName: Effect
+    soundSpawnName: DragonLarge
+    idleAnimName: 
+  - id: 14
+    dragon: {fileID: 2060654374280269476, guid: cd9168de112a3854582f45ada32322d3, type: 3}
+    sprite: {fileID: 1874419582, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+    idFrame: 5
+    effectSpawnName: Effect
+    soundSpawnName: DragonLarge
+    idleAnimName: 
